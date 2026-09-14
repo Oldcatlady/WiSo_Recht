@@ -1,0 +1,343 @@
+[
+{
+"question": "Wodurch unterscheidet sich eine Rechtsverordnung von einem Gesetz?",
+"options": {
+"A": "Sie wird vom Parlament in einem förmlichen Gesetzgebungsverfahren beschlossen.",
+"B": "Sie kann ohne jede gesetzliche Grundlage von jeder Behörde erlassen werden.",
+"C": "Sie wird von einer Gemeinde im Rahmen ihrer Selbstverwaltung erlassen.",
+"D": "Sie hat denselben Rang wie ein förmliches Parlamentsgesetz.",
+"E": "Sie wird von der Regierung oder einem Minister erlassen und benötigt eine gesetzliche Ermächtigungsgrundlage."
+},
+"correct": "E"
+},
+{
+"question": "Welche Aussage zur Abschlussfreiheit trifft zu?",
+"options": {
+"A": "Sie gewährt das Recht, frei zu entscheiden, ob und mit wem ein Vertrag geschlossen wird.",
+"B": "Sie verpflichtet beide Parteien, jeden angebotenen Vertrag anzunehmen.",
+"C": "Sie erlaubt es, Verträge nachträglich einseitig inhaltlich zu ändern.",
+"D": "Sie beschreibt die Freiheit, einen Vertrag ohne Einhaltung gesetzlicher Verbote zu gestalten.",
+"E": "Sie regelt ausschließlich die Aufhebung bestehender Verträge."
+},
+"correct": "A"
+},
+{
+"question": "Welche der folgenden Aussagen zu den Unterprinzipien der Vertragsfreiheit sind zutreffend?",
+"options": {
+"A": "Die Abschlussfreiheit gewährt das Recht, frei zu entscheiden, ob und mit wem ein Vertrag geschlossen wird.",
+"B": "Die Inhaltsfreiheit erlaubt es, den Vertragsinhalt frei zu bestimmen, solange keine gesetzlichen Verbote oder guten Sitten verletzt werden.",
+"C": "Die Formfreiheit verpflichtet die Parteien, jeden Vertrag notariell beurkunden zu lassen.",
+"D": "Die Aufhebungsfreiheit erlaubt es, einen Vertrag im gegenseitigen Einvernehmen wieder aufzuheben.",
+"E": "Die Abschlussfreiheit zwingt jede Partei, ein Vertragsangebot anzunehmen."
+},
+"correct": ["A", "B", "D"]
+},
+{
+"question": "Welche Aussagen zur beschränkten Geschäftsfähigkeit (7 bis 17 Jahre) treffen zu?",
+"options": {
+"A": "Willenserklärungen sind schwebend unwirksam, bis die gesetzlichen Vertreter zustimmen.",
+"B": "Nach dem Taschengeldparagraphen können mit überlassenen Mitteln bewirkte Geschäfte auch ohne Zustimmung wirksam sein.",
+"C": "Personen in diesem Alter sind vollständig geschäftsunfähig.",
+"D": "Ihre Willenserklärungen sind von Anfang an nichtig.",
+"E": "Sie können uneingeschränkt Verträge aller Art abschließen."
+},
+"correct": ["A", "B"]
+},
+{
+"question": "Wann beginnt nach § 1 BGB die Rechtsfähigkeit eines Menschen?",
+"options": {
+"A": "Mit Vollendung des 18. Lebensjahres.",
+"B": "Mit Eintritt der Geschäftsfähigkeit.",
+"C": "Mit der Zeugung.",
+"D": "Mit der Vollendung der Geburt.",
+"E": "Mit der Eintragung ins Personenstandsregister."
+},
+"correct": "D"
+},
+{
+"question": "Welches der folgenden Beispiele ist eine juristische Person des öffentlichen Rechts?",
+"options": {
+"A": "Eine GmbH.",
+"B": "Eine Aktiengesellschaft.",
+"C": "Ein eingetragener Verein.",
+"D": "Eine Einzelkauffrau.",
+"E": "Eine Gemeinde."
+},
+"correct": "E"
+},
+{
+"question": "Wie werden vertretbare Sachen nach § 91 BGB definiert?",
+"options": {
+"A": "Als unbewegliche Sachen wie Grundstücke.",
+"B": "Als individuelle Einzelstücke, die einzigartig sind.",
+"C": "Als Sachen, die ausschließlich im Eigentum von juristischen Personen stehen können.",
+"D": "Als bewegliche Sachen, die im Verkehr nach Zahl, Maß oder Gewicht bestimmt werden.",
+"E": "Als Sachen, die niemals Gegenstand eines Kaufvertrags sein können."
+},
+"correct": "D"
+},
+{
+"question": "Welches Rechtsgeschäft ist ein Beispiel für ein einseitiges Rechtsgeschäft?",
+"options": {
+"A": "Der Kaufvertrag.",
+"B": "Der Mietvertrag.",
+"C": "Der Werkvertrag.",
+"D": "Der Dienstvertrag.",
+"E": "Die Kündigung."
+},
+"correct": "E"
+},
+{
+"question": "Welche Aussagen zu Vertragstypen des BGB treffen zu?",
+"options": {
+"A": "Beim Mietvertrag wird die Sache dem Mieter dauerhaft übereignet.",
+"B": "Der Dienstvertrag verpflichtet stets zur Herbeiführung eines konkreten Erfolgs.",
+"C": "Beim Kaufvertrag wird die Sache gegen Zahlung des Kaufpreises übereignet.",
+"D": "Der Werkvertrag schuldet lediglich ein Tätigwerden ohne Erfolgsgarantie.",
+"E": "Beim Mietvertrag wird die Sache gegen Mietzins zum Gebrauch auf Zeit überlassen."
+},
+"correct": ["C", "E"]
+},
+{
+"question": "Worin unterscheiden sich Dienstvertrag und Werkvertrag zutreffend?",
+"options": {
+"A": "Beim Dienstvertrag wird ein messbarer Erfolg geschuldet.",
+"B": "Beim Dienstvertrag wird lediglich eine Tätigkeit ohne Erfolgsgarantie geschuldet.",
+"C": "Beim Werkvertrag schuldet der Arzt die Heilung des Patienten.",
+"D": "Beim Werkvertrag wird ein konkretes Ergebnis geschuldet, dessen Ausbleiben die Vergütung mindern kann.",
+"E": "Beide Vertragstypen setzen zwingend die Herstellung eines körperlichen Gegenstands voraus."
+},
+"correct": ["B", "D"]
+},
+{
+"question": "Wer erstellt üblicherweise das Pflichtenheft in einem IT-Werkvertrag?",
+"options": {
+"A": "Der Auftraggeber, um seine Anforderungen festzulegen.",
+"B": "Der Auftragnehmer, um die technische Umsetzung zu beschreiben.",
+"C": "Ein unabhängiges Gericht zur Streitschlichtung.",
+"D": "Der Gesetzgeber im Rahmen einer Rechtsverordnung.",
+"E": "Beide Parteien gemeinsam, ohne Unterscheidung der Rollen."
+},
+"correct": "B"
+},
+{
+"question": "Welche der folgenden Aussagen zum deutschen Zivilrecht sind zutreffend?",
+"options": {
+"A": "Formfreiheit ist im BGB der Grundsatz, notarielle Beurkundung nur die Ausnahme.",
+"B": "Ein Fernabsatzvertrag räumt Verbrauchern in der Regel ein 14-tägiges Widerrufsrecht ein.",
+"C": "Anfechtbare Verträge sind zunächst wirksam und können rückwirkend vernichtet werden.",
+"D": "Nichtige Verträge entfalten von Anfang an keine Rechtswirkung.",
+"E": "Jeder Vertrag über ein Grundstück kann formfrei mündlich geschlossen werden."
+},
+"correct": ["A", "B", "C", "D"]
+},
+{
+"question": "Was kennzeichnet einen Fernabsatzvertrag?",
+"options": {
+"A": "Die Parteien schließen den Vertrag stets in gleichzeitiger körperlicher Anwesenheit.",
+"B": "Er kann ausschließlich zwischen zwei Unternehmern geschlossen werden.",
+"C": "Unternehmer und Verbraucher nutzen ausschließlich Fernkommunikationsmittel wie Internet oder Telefon.",
+"D": "Er schließt jedes Widerrufsrecht des Verbrauchers grundsätzlich aus.",
+"E": "Er ist nur bei Verträgen über Grundstücke anwendbar."
+},
+"correct": "C"
+},
+{
+"question": "Für welche Rechtsgeschäfte schreibt das Gesetz zwingend die Schriftform vor?",
+"options": {
+"A": "Für Bürgschaften.",
+"B": "Für den Kauf eines Grundstücks.",
+"C": "Für die Gründung einer GmbH.",
+"D": "Für mündliche Kaufverträge des täglichen Lebens.",
+"E": "Für Mietverträge über Wohnraum."
+},
+"correct": ["A", "E"]
+},
+{
+"question": "Ein Verkäufer wird durch arglistige Täuschung zum Vertragsschluss bewegt. Wie ist der Vertrag rechtlich einzuordnen?",
+"options": {
+"A": "Der Vertrag ist von Anfang an nichtig und muss nicht angefochten werden.",
+"B": "Der Vertrag ist zunächst wirksam, kann aber durch Anfechtung rückwirkend vernichtet werden.",
+"C": "Der Vertrag bleibt in jedem Fall endgültig wirksam.",
+"D": "Der Vertrag ist wegen Geschäftsunfähigkeit nichtig.",
+"E": "Der Vertrag kann nur von Amts wegen durch ein Gericht aufgehoben werden."
+},
+"correct": "B"
+},
+{
+"question": "Welche der folgenden Rechtsgeschäfte bedürfen gesetzlich der notariellen Beurkundung?",
+"options": {
+"A": "Die Kündigung eines Arbeitsvertrags.",
+"B": "Der Abschluss eines Ehevertrags.",
+"C": "Der Kauf eines Grundstücks.",
+"D": "Ein Ratenkaufvertrag über eine Sache des täglichen Bedarfs.",
+"E": "Ein Schenkungsversprechen."
+},
+"correct": ["B", "C", "E"]
+},
+{
+"question": "Was versteht man unter konkludentem Handeln?",
+"options": {
+"A": "Eine ausdrücklich in Schriftform abgegebene Willenserklärung.",
+"B": "Eine notariell beurkundete Erklärung ohne Zeugen.",
+"C": "Eine Erklärung, die erst nach Ablauf einer gesetzlichen Frist wirksam wird.",
+"D": "Eine Willenserklärung, die von einem gesetzlichen Vertreter genehmigt werden muss.",
+"E": "Eine schlüssige Handlung, die auf eine bestimmte Willenserklärung schließen lässt, ohne dass diese ausdrücklich abgegeben wird."
+},
+"correct": "E"
+},
+{
+"question": "Welche Rechtsfolge hat grundsätzlich ein Verstoß gegen eine gesetzliche Formvorschrift?",
+"options": {
+"A": "Das Rechtsgeschäft ist von Anfang an nichtig.",
+"B": "Das Rechtsgeschäft bleibt trotz Formmangels voll wirksam.",
+"C": "Das Rechtsgeschäft ist lediglich anfechtbar.",
+"D": "Das Rechtsgeschäft wird automatisch in ein Angebot ohne Bindungswirkung umgedeutet.",
+"E": "Das Rechtsgeschäft bedarf zur Wirksamkeit nur noch der Zustimmung eines Gerichts."
+},
+"correct": "A"
+},
+{
+"question": "Herr Eckert kauft von seinem Nachbarn eine Rasenfläche und setzt dazu nur einen schriftlichen Vertrag auf. Welche Aussagen dazu treffen zu?",
+"options": {
+"A": "Der Vertrag ist wirksam, da Formfreiheit gilt.",
+"B": "Für den Grundstückskauf genügt nach dem Gesetz die Schriftform.",
+"C": "Der Vertrag ist wegen eines Formmangels nichtig.",
+"D": "Für den Kauf eines Grundstücks wäre eine notarielle Beurkundung erforderlich gewesen.",
+"E": "Der Vertrag ist lediglich anfechtbar, solange keine Anfechtung erklärt wird."
+},
+"correct": ["C", "D"]
+},
+{
+"question": "Herr Flender teilt dem Vermieter einer Lagerhalle die Kündigung mündlich auf dem Weihnachtsmarkt mit. Wie ist dieses Rechtsgeschäft zu beurteilen?",
+"options": {
+"A": "Wirksam, da für Kündigungen grundsätzlich Formfreiheit gilt.",
+"B": "Nichtig, da die gesetzlich vorgeschriebene Schriftform nicht eingehalten wurde.",
+"C": "Anfechtbar, da ein Erklärungsirrtum vorliegt.",
+"D": "Wirksam, weil konkludentes Handeln ausdrückliche Erklärungen ersetzen kann.",
+"E": "Nichtig, weil es sich um ein Scherzgeschäft handelt."
+},
+"correct": "B"
+},
+{
+"question": "Welche der folgenden Aussagen zu Nichtigkeits- und Anfechtungsgründen sind zutreffend?",
+"options": {
+"A": "Ein Verstoß gegen ein gesetzliches Verbot führt zur Nichtigkeit eines Rechtsgeschäfts.",
+"B": "Ein Scherzgeschäft ist von Anfang an nichtig.",
+"C": "Eine arglistige Täuschung berechtigt zur Anfechtung eines Rechtsgeschäfts.",
+"D": "Ein Motivirrtum berechtigt stets zur Anfechtung eines Rechtsgeschäfts.",
+"E": "Eine dauerhaft krankhafte Störung der Geistestätigkeit führt zur Nichtigkeit einer Willenserklärung."
+},
+"correct": ["A", "B", "C", "E"]
+},
+{
+"question": "Welche Frist gilt grundsätzlich für die Anfechtung wegen arglistiger Täuschung?",
+"options": {
+"A": "Die Anfechtung muss unverzüglich nach Vertragsschluss erfolgen.",
+"B": "Es gilt keine zeitliche Begrenzung für die Anfechtung.",
+"C": "Die Anfechtung kann innerhalb eines Jahres nach Entdeckung der Täuschung erfolgen.",
+"D": "Die Anfechtung muss binnen 14 Tagen nach Vertragsschluss erfolgen.",
+"E": "Die Anfechtung ist nach Ablauf von einem Monat grundsätzlich ausgeschlossen."
+},
+"correct": "C"
+},
+{
+"question": "Frau Glohr bietet versehentlich schriftlich einen Rechner für 200 statt 2.000 Euro an. Wie ist dieses Angebot rechtlich zu beurteilen, nachdem der Kunde bestellt hat?",
+"options": {
+"A": "Der Vertrag ist nichtig, da kein wirksames Angebot vorlag.",
+"B": "Der Vertrag ist endgültig wirksam, ein Irrtum in der Erklärung ist unbeachtlich.",
+"C": "Der Vertrag ist nichtig wegen eines Scheingeschäfts.",
+"D": "Der Vertrag kann wegen eines Erklärungsirrtums angefochten werden.",
+"E": "Der Vertrag ist nichtig, da Frau Glohr geschäftsunfähig war."
+},
+"correct": "D"
+},
+{
+"question": "Welche der folgenden Fälle sind Beispiele für einen Anfechtungsgrund nach § 119 bzw. § 123 BGB?",
+"options": {
+"A": "Ein Zahlendreher führt dazu, dass statt 18 Fahrrädern 81 Fahrräder bestellt werden.",
+"B": "Ein Kunde bereut nachträglich, ein Ölgemälde gekauft zu haben, weil dessen Wert sinkt.",
+"C": "Ein Bewerber erlangt einen Arbeitsvertrag durch Vorlage eines gefälschten Zeugnisses.",
+"D": "Ein Käufer wird von der Verkäuferin arglistig über den Goldgehalt eines Armreifs getäuscht.",
+"E": "Ein Verein wird ordnungsgemäß ins Vereinsregister eingetragen."
+},
+"correct": ["A", "C", "D"]
+},
+{
+"question": "Welche Aussagen zum Motivirrtum treffen zu?",
+"options": {
+"A": "Er berechtigt stets zur Anfechtung eines Rechtsgeschäfts.",
+"B": "Er betrifft die Erwartungen einer Partei über den künftigen Wert oder Nutzen einer Sache.",
+"C": "Er führt automatisch zur Nichtigkeit des Rechtsgeschäfts.",
+"D": "Er ist gesetzlich dem Erklärungsirrtum gleichgestellt.",
+"E": "Ein Vertrag bleibt trotz Motivirrtums grundsätzlich rechtswirksam."
+},
+"correct": ["B", "E"]
+},
+{
+"question": "Ein sichtlich stark betrunkener Mann bietet einem Passanten an, dessen Fahrrad zu kaufen. Der Passant willigt ein. Wie ist das Rechtsgeschäft zu beurteilen?",
+"options": {
+"A": "Anfechtbar wegen arglistiger Täuschung.",
+"B": "Nichtig, da eine vorübergehende Störung der Geistestätigkeit vorliegt.",
+"C": "Wirksam, da Trunkenheit die Geschäftsfähigkeit nicht berührt.",
+"D": "Anfechtbar wegen eines Erklärungsirrtums.",
+"E": "Nichtig, weil es sich um ein Scheingeschäft handelt."
+},
+"correct": "B"
+},
+{
+"question": "Zwei Kaufleute geben in einem notariellen Grundstückskaufvertrag absichtlich einen niedrigeren Kaufpreis an, als tatsächlich vereinbart wurde. Wie ist der beurkundete Vertrag zu beurteilen?",
+"options": {
+"A": "Wirksam, da die notarielle Form eingehalten wurde.",
+"B": "Anfechtbar wegen arglistiger Täuschung des Finanzamts.",
+"C": "Nichtig, da es sich um ein Scheingeschäft handelt.",
+"D": "Wirksam, solange der Differenzbetrag nachträglich bar bezahlt wird.",
+"E": "Anfechtbar, weil ein Erklärungsirrtum vorliegt."
+},
+"correct": "C"
+},
+{
+"question": "Welche Aussagen zur Sittenwidrigkeit von Rechtsgeschäften treffen zu?",
+"options": {
+"A": "Ein Rechtsgeschäft ist sittenwidrig und damit nichtig, wenn die Notlage einer Partei in verwerflicher Weise ausgenutzt wird.",
+"B": "Sittenwidrige Rechtsgeschäfte sind lediglich anfechtbar.",
+"C": "Das Verlangen eines stark überhöhten Mietzinses unter Ausnutzung einer Wohnungsnot kann sittenwidrig sein.",
+"D": "Sittenwidrigkeit setzt stets eine notarielle Beurkundung des Geschäfts voraus.",
+"E": "Sittenwidrige Geschäfte werden erst nach gerichtlicher Anfechtung unwirksam."
+},
+"correct": ["A", "C"]
+},
+{
+"question": "Herr Venker beobachtet, wie jemand auf dem Weihnachtsmarkt Kokain gegen Bezahlung übergibt. Wie ist dieses Rechtsgeschäft einzuordnen?",
+"options": {
+"A": "Anfechtbar wegen widerrechtlicher Drohung.",
+"B": "Wirksam, da Bargeschäfte formfrei sind.",
+"C": "Schwebend unwirksam bis zur Genehmigung.",
+"D": "Nichtig wegen Verstoßes gegen ein gesetzliches Verbot.",
+"E": "Anfechtbar wegen arglistiger Täuschung."
+},
+"correct": "D"
+},
+{
+"question": "Welche der folgenden Aussagen zur Anfechtung von Willenserklärungen sind zutreffend?",
+"options": {
+"A": "Eine Anfechtung wegen eines Irrtums muss unverzüglich nach Entdeckung des Irrtums erfolgen.",
+"B": "Wer wegen eines Irrtums anficht, muss dem anderen Teil den Vertrauensschaden ersetzen.",
+"C": "Eine Anfechtung ist zeitlich unbegrenzt möglich.",
+"D": "Ein Motivirrtum berechtigt zur unverzüglichen Anfechtung.",
+"E": "Die Anfechtung ist grundsätzlich ausgeschlossen, wenn seit Abgabe der Willenserklärung zehn Jahre vergangen sind."
+},
+"correct": ["A", "B", "E"]
+},
+{
+"question": "Der 6-jährige Maximilian bestellt an einem Imbissstand Pommes. Wie ist dieses Rechtsgeschäft zu beurteilen?",
+"options": {
+"A": "Schwebend unwirksam, da beschränkte Geschäftsfähigkeit vorliegt.",
+"B": "Wirksam nach dem Taschengeldparagraphen.",
+"C": "Anfechtbar durch die gesetzlichen Vertreter.",
+"D": "Wirksam, da es sich um ein Geschäft des täglichen Lebens handelt.",
+"E": "Nichtig, da Maximilian geschäftsunfähig ist."
+},
+"correct": "E"
+}
+]
